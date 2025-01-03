@@ -1,9 +1,26 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.3">
   <diagram name="Página-1" id="vJcUxD-9R3zmkLj-b6gD">
-    <mxGraphModel>
+    <mxGraphModel dx="2049" dy="1114" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ltZokjYqiID-09ym16MI-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ltZokjYqiID-09ym16MI-1" target="ltZokjYqiID-09ym16MI-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ltZokjYqiID-09ym16MI-5" value="Model the scheduling problem as a" style="edgeLabel;align=center;verticalAlign=middle;resizable=0;points=[];container=0;spacing=2;labelBorderColor=none;fontSize=15;spacingBottom=2;" vertex="1" connectable="0" parent="ltZokjYqiID-09ym16MI-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ltZokjYqiID-09ym16MI-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;INPUTS&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="120" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ltZokjYqiID-09ym16MI-2" value="&lt;strong&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;JSS&lt;/font&gt;&lt;/strong&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="120" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ltZokjYqiID-09ym16MI-3" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;INPUTS&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="700" width="200" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
