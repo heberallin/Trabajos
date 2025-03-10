@@ -47,9 +47,9 @@
         <mxCell id="-i16baqEdhxGcpIUMj6I-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=18;fontStyle=1;strokeWidth=3;" edge="1" parent="1" source="-i16baqEdhxGcpIUMj6I-22" target="-i16baqEdhxGcpIUMj6I-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-i16baqEdhxGcpIUMj6I-109" value="Interpolation (Kriging)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;fontFamily=Times New Roman;fontStyle=0" vertex="1" connectable="0" parent="-i16baqEdhxGcpIUMj6I-108">
+        <mxCell id="-i16baqEdhxGcpIUMj6I-109" value="Interpolation (Kriging) in Grid Set" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;fontFamily=Times New Roman;fontStyle=0" vertex="1" connectable="0" parent="-i16baqEdhxGcpIUMj6I-108">
           <mxGeometry x="-0.2605" y="-5" relative="1" as="geometry">
-            <mxPoint x="14" y="-5" as="offset" />
+            <mxPoint x="93" y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-i16baqEdhxGcpIUMj6I-22" value="Auxiliar Variable" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fillStyle=auto;glass=0;shadow=0;fontFamily=Times New Roman;fontSize=18;fillColor=#fff2cc;strokeColor=#000000;fontStyle=0" vertex="1" parent="1">
@@ -67,9 +67,9 @@
         <mxCell id="-i16baqEdhxGcpIUMj6I-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=18;fontStyle=1;strokeWidth=3;" edge="1" parent="1" source="-i16baqEdhxGcpIUMj6I-24" target="-i16baqEdhxGcpIUMj6I-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-i16baqEdhxGcpIUMj6I-107" value="&lt;font&gt;Interpolation (Rbf)&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;fontFamily=Times New Roman;fontStyle=0" vertex="1" connectable="0" parent="-i16baqEdhxGcpIUMj6I-106">
+        <mxCell id="-i16baqEdhxGcpIUMj6I-107" value="&lt;font&gt;Interpolation (Rbf) in Grid Set&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;fontFamily=Times New Roman;fontStyle=0" vertex="1" connectable="0" parent="-i16baqEdhxGcpIUMj6I-106">
           <mxGeometry x="0.2083" y="3" relative="1" as="geometry">
-            <mxPoint x="-51" as="offset" />
+            <mxPoint x="-121" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-i16baqEdhxGcpIUMj6I-24" value="&lt;font&gt;SDF per Domain&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fillStyle=auto;glass=0;shadow=0;fontFamily=Times New Roman;fontSize=18;fillColor=#d5e8d4;strokeColor=#000000;fontStyle=0" vertex="1" parent="1">
