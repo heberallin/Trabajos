@@ -11,7 +11,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-i16baqEdhxGcpIUMj6I-1" value="&lt;font&gt;Drillholes Database&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fillStyle=auto;glass=0;shadow=0;fontFamily=Times New Roman;fontSize=18;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="40" y="240" width="160" height="40" as="geometry" />
+          <mxGeometry x="40" y="200" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="-i16baqEdhxGcpIUMj6I-33" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=1;edgeStyle=orthogonalEdgeStyle;strokeWidth=3;fontSize=18;fontFamily=Times New Roman;fontStyle=1" edge="1" parent="1" source="-i16baqEdhxGcpIUMj6I-16" target="-i16baqEdhxGcpIUMj6I-24">
           <mxGeometry relative="1" as="geometry">
@@ -32,7 +32,7 @@
         <mxCell id="-i16baqEdhxGcpIUMj6I-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;endArrow=none;startFill=0;strokeWidth=3;fontFamily=Times New Roman;fontSize=18;fontStyle=1" edge="1" parent="1" source="-i16baqEdhxGcpIUMj6I-16" target="-i16baqEdhxGcpIUMj6I-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-i16baqEdhxGcpIUMj6I-16" value="&lt;font&gt;Data Preprocessing&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fillStyle=auto;glass=0;shadow=0;fontFamily=Times New Roman;fontSize=18;fillColor=#ffe6cc;strokeColor=#000000;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="-i16baqEdhxGcpIUMj6I-16" value="&lt;font&gt;Data&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font&gt;Preprocessing&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fillStyle=auto;glass=0;shadow=0;fontFamily=Times New Roman;fontSize=18;fillColor=#ffe6cc;strokeColor=#000000;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="240" y="200" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="-i16baqEdhxGcpIUMj6I-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;fontFamily=Times New Roman;fontSize=18;fontStyle=1" edge="1" parent="1" source="-i16baqEdhxGcpIUMj6I-17" target="-i16baqEdhxGcpIUMj6I-71">
@@ -87,7 +87,7 @@
             <mxPoint x="530" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-i16baqEdhxGcpIUMj6I-71" value="&lt;font&gt;Domains Prediction in Grid Set&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fillStyle=auto;glass=0;shadow=0;fontFamily=Times New Roman;fontSize=18;fillColor=#ffe6cc;strokeColor=#000000;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="-i16baqEdhxGcpIUMj6I-71" value="&lt;font&gt;Domains&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font&gt;Prediction in&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;Grid Set&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fillStyle=auto;glass=0;shadow=0;fontFamily=Times New Roman;fontSize=18;fillColor=#ffe6cc;strokeColor=#000000;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="960" y="200" width="160" height="120" as="geometry" />
         </mxCell>
       </root>
